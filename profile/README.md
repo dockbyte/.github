@@ -18,7 +18,7 @@ You can install it on your own hardware, giving you full control over your hosti
 - **Multi-App Support**: Manage multiple apps with ease through a single dashboard.
 
 ## ⚙️ Tech Stack
-- **Frontend**: SvelteKit
+- **Frontend**: Next.js
 - **API**: Go, Fiber
 - **Containerization**: Docker
 - **Database**: PostgreSQL
